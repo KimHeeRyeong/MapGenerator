@@ -16,5 +16,8 @@ Unity MapGenerator
 -mat : particles shared this materials  
 -chunks : set particle on these chunks  
   
-  #### Map Chunk Loading
+#### Map Chunk Loading
 ![Move Map](https://github.com/KimHeeRyeong/MapGenerator/blob/master/GIF/MoveMap.gif)
+
+#### reference
+get randomPoint https://youtu.be/7WcmyxyFO7o
